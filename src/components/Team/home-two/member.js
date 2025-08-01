@@ -20,4 +20,5 @@ const TeamMember = ({id,profilePic,name,designation}) => {
     );
 };
 
+
 export default TeamMember;
