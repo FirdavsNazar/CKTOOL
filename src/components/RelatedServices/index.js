@@ -19,7 +19,7 @@ const RelatedServices = () => {
 
                 <div className="row mtn-30">
                     {
-                        ServicesData.reverse().slice(0, 3).map(relatedService => (
+                        ServicesData.reverse().slice(0, 7).map(relatedService => (
                             <ServiceItem
                                 key={relatedService.id}
                                 id={relatedService.id}

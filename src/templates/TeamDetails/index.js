@@ -13,16 +13,16 @@ const TeamDetailsPage = () => {
     return (
         <Fragment>
             <PageHeader
-                bgImg={require('../../assets/img/page-header.jpg')}
-                title={teamMember.name}
-                content={teamMember.designation}
+                bgImg={require('../../assets/img/tech_news/tech_main2.jpg')}
+                // title={teamMember.name}
+                // content={teamMember.designation}
             />
 
             <PageWrapper classes={'member-details-wrapper sm-top'}>
                 <div className="col-12">
                     <MemberInfo teamMember={teamMember}/>
-                    <SkillsExperience teamMember={teamMember}/>
-                    <Education teamMember={teamMember}/>
+                    {/* <SkillsExperience teamMember={teamMember}/>
+                    <Education teamMember={teamMember}/> */}
                 </div>
             </PageWrapper>
         </Fragment>

@@ -12,10 +12,13 @@ const PageTeamDetails = () => {
     return (
         <Fragment>
             <Header/>
-            <TeamDetailsPage/>
-            <BrandLogo/>
-            <Funfact classes="sp-top"/>
-            <CallToAction/>
+            <TeamDetailsPage/> 
+            <br></br> <br></br>  <br></br> <br></br> 
+            {/* <BrandLogo/> */}
+            {/* <Funfact classes="sp-top"/>
+            
+            <CallToAction/> */}
+             <br></br> <br></br> 
             <Footer/>
             <LoginRegister/>
             <MobileMenu/>

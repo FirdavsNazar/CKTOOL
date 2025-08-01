@@ -6,9 +6,10 @@
   .slick-dots {
     display: flex !important;
     position: absolute;
-    bottom: 30px;
+    bottom: 1px;
     left: 50%;
     transform: translateX(-50%);
+    opacity: 0.2;
   }
 }
 

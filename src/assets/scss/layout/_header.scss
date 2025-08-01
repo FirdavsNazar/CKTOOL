@@ -77,6 +77,24 @@
   }
 }
 
+// Language change 
+.language-switcher {
+  display: flex;
+  gap: 5px;
+}
+
+.language-switcher button {
+  padding: 1px 1px;
+  border: 1px solid #ccc;
+  background-color: #f4f4f4;
+  cursor: pointer;
+}
+
+.language-switcher button:hover {
+  background-color: #ddd;
+}
+
+
 // Index Action
 .header-action{
   color: $white;

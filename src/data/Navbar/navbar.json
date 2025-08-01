@@ -32,8 +32,19 @@
     "id": 5,
     "title": "Tech News",
      "link": "/blog-grid-left-sidebar",
-    "megaMenu": false
+    "megaMenu": false,
+    "subMenu": [
+      {
+        "title": "Tech News",
+        "link": "/blog-grid-left-sidebar"
+      },
+      {
+        "title": "New Items",
+        "link": "/blog-grid-without-sidebar"
+      }
+    ]
   },
+  
   {
     "id": 6,
     "title": "Contact",

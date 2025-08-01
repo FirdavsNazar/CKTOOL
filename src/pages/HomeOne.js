@@ -1,4 +1,5 @@
 import React, {Fragment} from 'react';
+import { useTranslation } from 'react-i18next';
 
 import Header from '../components/Header'
 import Slider from '../components/Slider/home-one'
@@ -16,11 +17,13 @@ import LoginRegister from "../components/LoginRegister";
 import MobileMenu from "../components/MobileMenu";
 
 const HomeOne = () => {
+    const { t } = useTranslation();  // Access the translation function
+
     return (
         <Fragment>
             <Header/>
-            <Slider/>
-            <About/>
+            <Slider title={t('home.slider.title')} subtitle={t('home.slider.subtitle')} />
+            <About title={t('home.about.title')} description={t('home.about.description')} />
             {/* <Features classes="sp-top"/> */}
             <Services classes="sm-top-wt"/>
             {/* <Testimonials/> */}

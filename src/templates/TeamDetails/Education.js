@@ -21,7 +21,7 @@ const Education = ({teamMember}) => {
 
                 <div className="col-12">
                     <div className="education-content-wrap mt-60">
-                        <TimelineWrap icon={'graduation-cap'}>
+                        {/* <TimelineWrap icon={'graduation-cap'}>
                             {
                                 education.map(educationItem=>(
                                     <Timeline
@@ -33,7 +33,7 @@ const Education = ({teamMember}) => {
                                     />
                                 ))
                             }
-                        </TimelineWrap>
+                        </TimelineWrap> */}
                     </div>
                 </div>
             </div>

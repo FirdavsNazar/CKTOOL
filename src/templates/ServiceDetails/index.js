@@ -29,15 +29,17 @@ const ServiceDetails = () => {
             />
 
             <PageWrapper classes="sm-top service-details-wrapper">
-                <ServiceContentWrap
-                    service={service}
-                    totalService={ServicesData.length}
-                    nextService={nextService}
-                    prevService={prevService}
-                />
+                 <div className="container d-flex justify-content-center">
+        <ServiceContentWrap
+            service={service}
+            totalService={ServicesData.length}
+            nextService={nextService}
+            prevService={prevService}
+        />
+    </div>
 
                 <Sidebar classes={'col-lg-4 mtn-40'}>
-                    <SidebarItem title="Product">
+                    {/* <SidebarItem title="Product">
                         <List classes="service-list">
                             {
                                 ServicesData.map(serviceItem=>(
@@ -49,7 +51,7 @@ const ServiceDetails = () => {
                                 ))
                             }
                         </List>
-                    </SidebarItem>
+                    </SidebarItem> */}
 
                     {/* <SidebarItem title="Download Brochure">
                         <List classes="service-list">

@@ -12,10 +12,12 @@ import MobileMenu from "../components/MobileMenu";
 import Features from "../components/Features";
 import Testimonial from "../components/Testimonials/home-two";
 import Team from "../components/Team/home-two";
+import { useTranslation } from 'react-i18next'; // Import the useTranslation hook
 
 import ServiceThumb from '../assets/img/about.jpg'
 
 const PageAbout = () => {
+    const { t } = useTranslation(); // Initialize the translation function
     return (
         <Fragment>
             <Header/>
@@ -26,10 +28,10 @@ const PageAbout = () => {
                 // content= "Businex always try to provide the best Business Solutions for Clients to grow up their Business very sharply and smoothly."
             /> <br></br>
             <About
-                title={'Our Team'}
-                heading="Meet Our <br/> Expert Member"
-                // thumb={ServiceThumb}
-                content="<b>cktool</b> always try to provide the best Business Solutions for Clinets to grow up their Business very sharply and smoothly. We voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt."
+                 title={t('ourTeam')}
+                 heading={t('meetOurExperts')}
+                 // thumb={ServiceThumb}
+                 content={t('aboutContent')}
             />
             {/* <Services/> */}
             {/* <Features classes={'sm-top'}/> */}

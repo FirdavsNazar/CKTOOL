@@ -5,6 +5,9 @@ import BlogItem from "./blogItem";
 import Blogs from '../../data/Blog/blog';
 
 function Blog() {
+    // Merge both blog arrays
+    const mergedBlogs = [...Blogs].reverse();  // Reverse after merging
+
     return (
         <div className="blog-area-wrapper sm-top">
             <div className="container">
@@ -16,7 +19,7 @@ function Blog() {
 
                 <div className="row mtn-35">
                     {
-                        Blogs.reverse().slice(0,3).map(blog =>(
+                        mergedBlogs.slice(0,3).map(blog =>(
                             <BlogItem key={blog.id} id={blog.id} title={blog.title} excerpt={blog.excerpt} postBy={blog.author.name} date={blog.publishDate}/>
                         ))
                     }
