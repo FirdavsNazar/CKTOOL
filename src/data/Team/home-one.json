@@ -3,70 +3,80 @@
     "id": 1,
     "name": "High efficiency small diameter drill and deep hole drill series",
     "designation": "Web Developer & Overseas manager",
-    "profilePic": "tech_news/new/01.jpg"
+    "profilePic": "tech_news/new/01.jpg",
+    "catalogueLink": "https://drive.google.com/file/d/11LfuJjypUdKPIi9ligbuEnGLkqiNSm6-/view?usp=sharing"
 
   },
-  {
-    "id": 2,
-    "name": "HML series high feed milling tool",
-    "designation": "Web Developer & Overseas manager",
-    "profilePic": "tech_news/new/02.jpg"
-
-  },
+   {
+  "id": 2,
+  "name": "HML series high feed milling tool",
+  "designation": "Web Developer & Overseas manager",
+  "profilePic": "tech_news/new/02.jpg",
+  "catalogueLink": "https://drive.google.com/file/d/18I3qTOGJwvHFys87dU3igxSj9VY6tL9k/view?usp=drive_link"
+    }
+ ,
   {
     "id": 3,
     "name": "Indexable cutting tools for gear machining",
     "designation": "Web Developer & Overseas manager",
-    "profilePic": "tech_news/new/03.jpg"
+    "profilePic": "tech_news/new/03.jpg",
+    "catalogueLink": "https://drive.google.com/file/d/1ejIik_Bdm9Ry5cb19n43a7pNpr-SjQa4/view?usp=drive_link"
 
   },
   {
     "id": 4,
     "name": "ISO PCBN turning insert",
     "designation": "Web Developer & Overseas manager",
-    "profilePic": "tech_news/new/04.jpg"
+    "profilePic": "tech_news/new/04.jpg",
+    "catalogueLink": "https://drive.google.com/file/d/1plOUTzYy5oRlYh0vmseOa90QLHibr61_/view?usp=drive_link"
 
   },
   {
     "id": 5,
     "name": "ISO PCD turning insert",
     "designation": "Web Developer & Overseas manager",
-    "profilePic": "tech_news/new/05.jpg"
+    "profilePic": "tech_news/new/05.jpg",
+    "catalogueLink": "https://drive.google.com/file/d/1uPYtJAYvjwP69v6S29DG50Aqpxoy7Kgv/view?usp=drive_link"
 
   },
   {
     "id": 6,
     "name": "OH inserts series for high hardness steel turning",
     "designation": "Web Developer & Overseas manager",
-    "profilePic": "tech_news/new/06.jpg"
+    "profilePic": "tech_news/new/06.jpg",
+    "catalogueLink": "https://drive.google.com/file/d/1tJ9s65oXNC0mKDTDsC8J7RhH2TNRg6w1/view?usp=drive_link"
 
   },
   {
     "id": 7,
     "name": "OMT end mill series for high efficiency titanium alloy machining",
     "designation": "Web Developer & Overseas manager",
-    "profilePic": "tech_news/new/07.jpg"
+    "profilePic": "tech_news/new/07.jpg",
+    "catalogueLink": "https://drive.google.com/file/d/1XKoAKx4leLVATi29YWM2oDmoP5BLeqjq/view?usp=drive_link"
 
   },
   {
     "id": 8,
     "name": "RHD modular drill",
     "designation": "Web Developer & Overseas manager",
-    "profilePic": "tech_news/new/08.jpg"
+    "profilePic": "tech_news/new/08.jpg",
+    "catalogueLink": "https://drive.google.com/file/d/1xHC0FpEw5C3lGtZaq66LD3mUZMYE2Gq4/view?usp=drive_link"
 
   },
   {
     "id": 9,
     "name": "Series products for turning exotic alloy",
     "designation": "Web Developer & Overseas manager",
-    "profilePic": "tech_news/new/09.jpg"
+    "profilePic": "tech_news/new/09.jpg",
+    "catalogueLink": "https://drive.google.com/file/d/1rdMsDtU-P0vLztMPxYD17nZs1PvvAVfl/view?usp=drive_link"
 
   },
   {
     "id": 10,
     "name": "SM series slot milling tool",
     "designation": "Web Developer & Overseas manager",
-    "profilePic": "tech_news/new/10.jpg"
+    "profilePic": "tech_news/new/10.jpg",
+    "catalogueLink": "https://drive.google.com/file/d/1bJOQOV9sYfMe_yTOraAY3x7rx0noxQFK/view?usp=drive_link"
 
   }
  

@@ -52,7 +52,7 @@ const PageService = () => {
                         <p>Megadong 1007-ho, SKN Technopark, Sagimakgol-ro 124, Jungwon-gu, Seongnam-si, Gyeonggi-do, South Korea</p>
                         <p><strong>Email:</strong></p>
                         <p>cktoolcom@gmail.com</p>
-                        <p><strong>Number:</strong></p>
+                        <p><strong>Tel:</strong></p>
                         <p>(+82) 070-8731-1115</p>
                         <p><strong>Fax:</strong></p>
                         <p>(+82) 070-8731-1114</p>
@@ -68,7 +68,7 @@ const PageService = () => {
                         <p>112-ho, 1-dong, Busan Industrial Supplies Distribution Complex, Gweagam-ro 37, Sasang-gu, Busan, South Korea</p>
                         <p><strong>Email:</strong></p>
                         <p>cktoolted@gmail.com</p>
-                        <p><strong>Number:</strong></p>
+                        <p><strong>Tel:</strong></p>
                         <p>(+82) 051-319-0981</p>
                         <p><strong>Fax:</strong></p>
                         <p>(+82) 051-319-0983</p>
@@ -76,6 +76,15 @@ const PageService = () => {
                     mapLink="https://www.google.com/maps?q=Busan%20Industrial%20Supplies%20Distribution%20Complex,%20Gweagam-ro%2037,%20Sasang-gu,%20Busan,%20South%20Korea&output=embed"
                 />
                 
+                <PageAbout
+                    title="3. DIRECTION"
+                    heading="OKE"
+                    content={`<div>
+                        <p><strong>Address:</strong></p>
+                        <p>No.588, Jinlong Area, Majiahe Rd, Tianyuan District, Zhuzhou, Hunan, China,412000</p>
+                    </div>`}
+                    mapLink="https://www.google.com/maps?q=No. 588%20Majiahe%20Road,%20Jinlong%20Community,%20Tianyuan%20District,%20Zhuzhou,%20Hunan,%20China&output=embed"
+                />
 
 
 {/* <PageAbout

@@ -111,6 +111,20 @@
     "features": [
      
     ]
+  },
+  {
+    "id": 9,
+    "title": "OMT",
+    "shortDesc": "Series For High Efficiency Titanium Alloy Machining",
+    "thumb": "service/9_omt.jpg",
+    "previewImages": [
+     "service/details/omt/02_omt_kr_2.jpg",
+      "service/details/omt/01_omt_en_2.jpg",
+      "service/details/omt/omt_01.jpg"
+    ],
+    "features": [
+     
+    ]
   }
   
 ]

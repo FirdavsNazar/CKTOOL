@@ -35,11 +35,11 @@
     "megaMenu": false,
     "subMenu": [
       {
-        "title": "Tech News",
+        "title": "CKTOOL NEWS",
         "link": "/blog-grid-left-sidebar"
       },
       {
-        "title": "New Items",
+        "title": "NEW PRODUCTS",
         "link": "/blog-grid-without-sidebar"
       }
     ]
