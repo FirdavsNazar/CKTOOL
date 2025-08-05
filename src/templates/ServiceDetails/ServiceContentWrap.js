@@ -19,7 +19,7 @@ const ServiceContentWrap = ({service,totalService,prevService,nextService}) => {
                     }}>
                         {
                             service.previewImages.map((previewImg, indx) => (
-                                <div key={indx}>
+                                <div key={indx} >
                                     <img src={require('../../assets/img/' + previewImg)} alt={service.title} />
                                 </div>
                             ))

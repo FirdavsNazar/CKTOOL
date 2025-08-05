@@ -1,35 +1,35 @@
 [
   {
     "id": 1,
-    "name": "DRILLS",
+    "name": "SOLID DRILL",
     "designation": "",
     "profilePic": "tech_news/new/00_mini/01.jpg",
     "catalogueLink": "https://kcera.kr/catalogues/hml.pdf"
   },
   {
     "id": 2,
-    "name": "MILL TOOLS",
+    "name": "HIGH FEED CUTTER",
     "designation": "",
     "profilePic": "tech_news/new/00_mini/02.jpg",
     "catalogueLink": "https://kcera.kr/catalogues/hml.pdf"
   },
   {
     "id": 3,
-    "name": "CUTTING TOOL",
+    "name": "GEAR CUTTER",
     "designation": "",
     "profilePic": "tech_news/new/00_mini/03.jpg",
     "catalogueLink": "https://kcera.kr/catalogues/hml.pdf"
   },
   {
     "id": 4,
-    "name": "PCBN TURNING INSERT",
+    "name": "PCBN INSERTS",
     "designation": "",
     "profilePic": "tech_news/new/00_mini/04.jpg",
     "catalogueLink": "https://kcera.kr/catalogues/hml.pdf"
   },
   {
     "id": 5,
-    "name": "PCS TURNING INSERT",
+    "name": "PCD INSERTS",
     "designation": "",
     "profilePic": "tech_news/new/00_mini/05.jpg",
     "catalogueLink": "https://kcera.kr/catalogues/hml.pdf"
@@ -37,7 +37,7 @@
   ,
   {
     "id": 6,
-    "name": "TURNING INSERT",
+    "name": "INSERTS FOR HARDENED STEEL",
     "designation": "",
     "profilePic": "tech_news/new/00_mini/06.jpg",
     "catalogueLink": "https://kcera.kr/catalogues/hml.pdf"
@@ -45,7 +45,7 @@
   ,
   {
     "id": 7,
-    "name": "ENDMILL",
+    "name": "ENDMILL FOR TITANIUM",
     "designation": "",
     "profilePic": "tech_news/new/00_mini/07.jpg",
     "catalogueLink": "https://kcera.kr/catalogues/hml.pdf"
@@ -61,7 +61,7 @@
   ,
   {
     "id": 9,
-    "name": "TURNING INSERT",
+    "name": "INSERTS FOR HSRA",
     "designation": "",
     "profilePic": "tech_news/new/00_mini/09.jpg",
     "catalogueLink": "https://kcera.kr/catalogues/hml.pdf"
@@ -69,7 +69,7 @@
   ,
   {
     "id": 10,
-    "name": "MILL TOOL",
+    "name": "SIDE CUTTER",
     "designation": "",
     "profilePic": "tech_news/new/00_mini/10.jpg",
     "catalogueLink": "https://kcera.kr/catalogues/hml.pdf"

@@ -16,14 +16,14 @@
   },
   {
     "id": 3,
-    "title": "Direction",
+    "title": "Directions",
     "link": "/services",
     "megaMenu": false,
     "subMenu": false
   },
   {
     "id": 4,
-    "title": "Product",
+    "title": "Products",
     "link": "/team",
     "megaMenu": false,
     "subMenu": false

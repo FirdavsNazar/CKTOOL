@@ -29,29 +29,31 @@ const ServiceDetails = () => {
             />
 
             <PageWrapper classes="sm-top service-details-wrapper">
-                 <div className="container d-flex justify-content-center">
-        <ServiceContentWrap
-            service={service}
-            totalService={ServicesData.length}
-            nextService={nextService}
-            prevService={prevService}
-        />
-    </div>
+                <ServiceContentWrap
+                    service={service}
+                    totalService={ServicesData.length}
+                    nextService={nextService}
+                    prevService={prevService}
+                />
 
                 <Sidebar classes={'col-lg-4 mtn-40'}>
-                    {/* <SidebarItem title="Product">
-                        <List classes="service-list">
-                            {
-                                ServicesData.map(serviceItem=>(
-                                    <LI key={serviceItem.id}>
-                                        <a href={`${process.env.PUBLIC_URL + `/service/${serviceItem.title.split(' ').join('-').toLowerCase()}?id=${serviceItem.id}`}`}>
-                                            {serviceItem.title}
-                                        </a>
-                                    </LI>
-                                ))
-                            }
-                        </List>
-                    </SidebarItem> */}
+                    <SidebarItem title="Product">
+                           <List classes="service-list">
+                             {
+                               ServicesData.map(serviceItem => (
+                                 <LI key={serviceItem.id}>
+                                   <a
+                                     href="#"
+                                     onClick={(e) => e.preventDefault()} // oldini oladi
+                                     style={{ pointerEvents: 'none', color: 'gray', cursor: 'default' }}
+                                   >
+                                     {serviceItem.title}
+                                   </a>
+                                 </LI>
+                               ))
+                             }
+                           </List>
+                    </SidebarItem>
 
                     {/* <SidebarItem title="Download Brochure">
                         <List classes="service-list">

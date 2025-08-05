@@ -15,7 +15,7 @@ const MemberInfo = ({teamMember}) => {
                     <div className="member-desc">
                          <h2>{name}</h2>
                        
-                         <a
+                         {/* <a
                            href={catalogueLink}
                            target="_blank"
                            rel="noopener noreferrer"
@@ -31,7 +31,7 @@ const MemberInfo = ({teamMember}) => {
                          >
                            <FaFilePdf style={{ marginRight: '6px' }} />
                            Catalogue
-                         </a>
+                         </a> */}
                     </div>
                        
                 </div>
