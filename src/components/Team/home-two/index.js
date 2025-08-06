@@ -21,7 +21,7 @@ const Team = () => {
                 </div>
 
                 <div className="col-xl-8">
-                    <div className="team-area-right team-area-right--2 bg-img" style={{backgroundImage:`url(${teamBg})`}}>
+                    <div className="team-area-right team-area-right--2 bg-img" style={{ backgroundImage: `url("/direction-team/background.jpg")` }}>
                         <div className="row no-gutters align-items-end mtn-40">
                             {
                                 teamData.map(member => (

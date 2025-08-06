@@ -71,7 +71,7 @@ const PageService = () => {
                         <p><strong>Tel</strong></p>
                         <p>+82-051-319-0981</p>
                         <p><strong>Fax</strong></p>
-                        <p>+82-051-319-0983</p>
+                        <p>+82-51-319-0983</p>
                     </div>`}
                     mapLink="https://www.google.com/maps?q=Busan%20Industrial%20Supplies%20Distribution%20Complex,%20Gweagam-ro%2037,%20Sasang-gu,%20Busan,%20South%20Korea&output=embed"
                 />

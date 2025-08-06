@@ -146,7 +146,7 @@ function NavbarItem(props) {
             {isMobile && (
                 <li key="Catalogue">
                     <a
-                        href="https://drive.google.com/file/d/1wS3HxZgPc20GI8zT32Nt9Li0zWpW_0yw/view?usp=drive_link"
+                        href="https://cktool.co.kr/OKE%20catalogue.pdf"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="tel-no"

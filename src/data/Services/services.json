@@ -7,7 +7,8 @@
     "previewImages": [
       "service/details/ompq/02_ompq_kr.png",
       "service/details/ompq/01_ompq_en.png",
-      "service/details/ompq/03_ompq_test.png"
+      "service/details/ompq/ompq_01.jpg",
+      "service/details/ompq/ompq_02.jpg"
     ],
     "features": [
      
@@ -22,7 +23,8 @@
     "previewImages": [
       "service/details/ompx/02_ompx_kr.jpg",
       "service/details/ompx/01_ompx_en.png",
-      "service/details/ompx/03_ompx_test.png"
+      "service/details/ompx/ompx_01.jpg",
+      "service/details/ompx/ompx_02.jpg"
     ],
    "features": [
       
@@ -31,12 +33,13 @@
   {
     "id": 3,
     "title": "OMH",
-    "shortDesc": " Series For Quenched Steel Machining",
+    "shortDesc": " Series For Hardened Steel Machining",
     "thumb": "service/3omh.png",
     "previewImages": [
-      "service/details/omh/02_omh_kr.png",
-      "service/details/omh/01_omh_en.png",
-      "service/details/omh/02_omh_kr.png"
+      "service/details/omh/02_omh_kr_2.jpg",
+      "service/details/omh/01_omh_en_2.jpg",
+      "service/details/omh/omh_01.jpg",
+      "service/details/omh/omh_02.jpg"
     ],
    "features": [
      
@@ -50,7 +53,8 @@
     "previewImages": [
       "service/details/omhh/02_omhh_kr.png",
       "service/details/omhh/01_omhh_en.png",
-      "service/details/omhh/03_omhh_test.png"
+      "service/details/omhh/omhh_01.jpg",
+      "service/details/omhh/omhh_02.jpg"
     ],
     "features": [
     
@@ -64,7 +68,8 @@
     "previewImages": [
       "service/details/oms/02_oms_kr.png",
       "service/details/oms/01_oms_en.png",
-      "service/details/oms/03_oms_test.png"
+      "service/details/oms/oms_01.jpg",
+      "service/details/oms/oms_02.jpg"
     ],
     "features": [
      
@@ -78,7 +83,8 @@
     "previewImages": [
       "service/details/omm/02_omm_kr.png",
       "service/details/omm/01_omm_en.png",
-      "service/details/omm/03_omm_test.png"
+      "service/details/omm/omm_01.jpg",
+      "service/details/omm/omm_02.jpg"
     ],
    "features": [
      
@@ -92,7 +98,8 @@
     "previewImages": [
       "service/details/omal/02_omal_kr.png",
       "service/details/omal/01_omal_en.png",
-      "service/details/omal/03_omal_test.png"
+      "service/details/omal/omal_01.png",
+      "service/details/omal/omal_02.png"
     ],
    "features": [
      
@@ -106,7 +113,8 @@
     "previewImages": [
      "service/details/odb/02_odp_kr.png",
       "service/details/odb/01_odp_en.png",
-      "service/details/odb/03_odp_test.png"
+      "service/details/odb/odp_01.jpg",
+      "service/details/odb/odp_03.jpg"
     ],
     "features": [
      
@@ -120,6 +128,7 @@
     "previewImages": [
      "service/details/omt/02_omt_kr_2.jpg",
       "service/details/omt/01_omt_en_2.jpg",
+      "service/details/omt/omt_01.jpg",
       "service/details/omt/omt_01.jpg"
     ],
     "features": [
