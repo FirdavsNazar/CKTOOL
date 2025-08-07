@@ -6,7 +6,7 @@ import Funfacts from '../../data/Funfact/funfact'
 
 function Funfact() {
     return (
-        <div className="fun-fact-area sm-top parallax" style={{ backgroundImage: `url(${funfactbg})` }}>
+        <div className="fun-fact-area sm-top parallax" style={{ backgroundImage: `` }}>
             <div className="container">
                 <div className="row mtn-40">
                     {

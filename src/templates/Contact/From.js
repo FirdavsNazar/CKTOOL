@@ -49,10 +49,10 @@ const From = () => {
                             placeholder={'Write Your Message *'}
                         />
 
-                        <FormInput
+                        {/* <FormInput
                             tag={'button'}
                             classes={'btn-outline'}
-                        />
+                        /> */}
 
                         <div className="form-message"/>
                     </div>

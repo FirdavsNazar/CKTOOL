@@ -98,8 +98,8 @@
     "previewImages": [
       "service/details/omal/02_omal_kr.png",
       "service/details/omal/01_omal_en.png",
-      "service/details/omal/omal_01.png",
-      "service/details/omal/omal_02.png"
+      "service/details/omal/omal_01.jpg",
+      "service/details/omal/omal_02.jpg"
     ],
    "features": [
      
@@ -113,8 +113,8 @@
     "previewImages": [
      "service/details/odb/02_odp_kr.png",
       "service/details/odb/01_odp_en.png",
-      "service/details/odb/odp_01.jpg",
-      "service/details/odb/odp_03.jpg"
+      "service/details/odb/odp_03.jpg",
+      "service/details/odb/odp_04.jpg"
     ],
     "features": [
      
@@ -128,8 +128,8 @@
     "previewImages": [
      "service/details/omt/02_omt_kr_2.jpg",
       "service/details/omt/01_omt_en_2.jpg",
-      "service/details/omt/omt_01.jpg",
-      "service/details/omt/omt_01.jpg"
+      "service/details/omt/omt_03.jpg",
+      "service/details/omt/omt_04.jpg"
     ],
     "features": [
      
