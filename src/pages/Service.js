@@ -69,7 +69,7 @@ const PageService = () => {
                         <p><strong>Email</strong></p>
                         <p>cktoolted@gmail.com</p>
                         <p><strong>Tel</strong></p>
-                        <p>+82-051-319-0981</p>
+                        <p>+82-51-319-0981</p>
                         <p><strong>Fax</strong></p>
                         <p>+82-51-319-0983</p>
                     </div>`}
